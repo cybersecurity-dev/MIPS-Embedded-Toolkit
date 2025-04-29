@@ -1,6 +1,6 @@
 # MIPS based Embedded Device Toolkit
 
-The **MIPS** (Microprocessor without Interlocked Pipeline Stages) architecture is a Reduced Instruction Set Computer (RISC) instruction set architecture (ISA) initially developed by MIPS Computer Systems in the early 1980s. It's known for its clean, simple design and has been influential in computer architecture education.
+The **MIPS** (_Microprocessor without Interlocked Pipeline Stages_) architecture is a Reduced Instruction Set Computer (RISC) instruction set architecture (ISA) initially developed by MIPS Computer Systems in the early 1980s. It's known for its clean, simple design and has been influential in computer architecture education.
 
 | Feature             | MIPS (Microprocessor without Interlocked Pipeline Stages) | ARM (Advanced RISC Machines) |
 |----------------------|---------------------------------------------------------|-----------------------------|
