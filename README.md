@@ -1,6 +1,37 @@
 # MIPS based Embedded Device Toolkit
 
-The **MIPS** (_Microprocessor without Interlocked Pipeline Stages_) architecture is a Reduced Instruction Set Computer (RISC) instruction set architecture (ISA) initially developed by MIPS Computer Systems in the early 1980s. It's known for its clean, simple design and has been influential in computer architecture education.
+The **MIPS** (_Microprocessor without Interlocked Pipeline Stages_) architecture is a RISC (_Reduced Instruction Set Computer_) instruction set architecture (ISA) initially developed by MIPS Computer Systems in the early 1980s. It's known for its clean, simple design and has been influential in computer architecture education.
+
+<details>
+
+<summary>Install required tools on Linux</summary>
+
+### For Ubuntu 18.04, 20.04, 22.04
+
+```bash
+sudo apt-get update
+```
+</details>
+
+
+<details>
+
+<summary>Install required python libs</summary>
+
+### pip install
+```bash
+pip install -r requirements.txt
+python3 setup.py install
+```
+
+### conda install
+```bash
+conda config --add channels conda-forge
+conda install --file requirements_conda.txt
+python3 setup.py install
+```
+
+</details>
 
 | Feature             | MIPS (Microprocessor without Interlocked Pipeline Stages) | ARM (Advanced RISC Machines) |
 |----------------------|---------------------------------------------------------|-----------------------------|
