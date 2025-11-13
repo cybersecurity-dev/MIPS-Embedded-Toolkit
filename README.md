@@ -57,3 +57,18 @@ python3 setup.py install
 | **SIMD Extensions** | MIPS-3D, MDMX                                           | NEON, SVE, SVE2               |
 | **Power Consumption** | Generally higher                                        | Generally lower                 |
 | **Complexity** | Simpler instruction set and architecture               | More complex instruction set and architecture |
+
+##
+
+### My Awesome Lists
+You can access the my awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
+
+### Contributing
+
+[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+### Contributors
+
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/MIPS-Embedded-Toolkit/graphs/contributors)!
+
+[🔼 Back to top](#mips-based-embedded-device-toolkit)
